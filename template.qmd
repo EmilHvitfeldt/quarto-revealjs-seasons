@@ -11,6 +11,8 @@ echo: true
 SEASONS
 :::
 
+<https://github.com/EmilHvitfeldt/quarto-revealjs-seasons>
+
 # Spring Theme {.spring}
 
 ## Quarto {.spring}
